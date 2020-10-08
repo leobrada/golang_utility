@@ -2,6 +2,8 @@ package security_utility
 
 import (
     "crypto/x509"
+    "io/ioutil"
+    "log"
 )
 
 /*
